@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">এসো শিখি</string>
+    <string name="home_title">ছোটদের পাঠশালা</string>
+    <string name="category_alphabet">বর্ণমালা</string>
+    <string name="category_number">সংখ্যা</string>
+    <string name="category_color">রঙ</string>
+    <string name="back">ফিরে যাও</string>
+    <string name="swarabarna">স্বরবর্ণ</string>
+    <string name="numbers_1_10">১ থেকে ১০</string>
+</resources>
